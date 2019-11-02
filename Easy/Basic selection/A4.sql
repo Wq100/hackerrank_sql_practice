@@ -1,3 +1,4 @@
 SELECT * 
 FROM CITY
-    WHERE ID = 1661;
+WHERE 
+    ID = 1661;
