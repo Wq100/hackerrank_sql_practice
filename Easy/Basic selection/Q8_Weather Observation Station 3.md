@@ -12,4 +12,4 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 **Answer**
 
-[Click here for solution.](https://github.com/Autumn-grass/hackerrank_sql_practice/blob/master/Easy/Basic%20selection/A8_Weather%20Observation%20Station%203.sql)
+[Click here for solution.](https://github.com/Autumn-grass/hackerrank_sql_practice/blob/master/Easy/Basic%20selection/A8.sql)
